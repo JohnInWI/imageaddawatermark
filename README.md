@@ -16,7 +16,7 @@ A simple desktop application built with **Python**, **Tkinter**, and **Pillow (P
 
 ## 📸 Demo
 
-![screenshot](static/assets/img/demo.png) <!-- Replace with your actual path or upload image to repo -->
+![screenshot](static/assets/images/demo.png) <!-- Replace with your actual path or upload image to repo -->
 
 ---
 
