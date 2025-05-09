@@ -101,7 +101,7 @@ canvas = tk.Canvas(window, width=400, height=300, bg=BACKGROUND_COLOR, highlight
 canvas.grid(column=0, row=1, columnspan=3, pady=20)
 
 try:
-    logo_img = Image.open("pictures.png")
+    logo_img = Image.open("images/pictures.png")
     logo_img.thumbnail((400, 300), Image.LANCZOS)
     photo = ImageTk.PhotoImage(logo_img)
     canvas.create_image(200, 150, image=photo)

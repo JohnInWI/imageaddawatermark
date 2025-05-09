@@ -177,7 +177,7 @@ def add_logo_watermark():
 
 # UI Elements
 canvas = tk.Canvas(window, width=400, height=448, bg=BG_COLOR, highlightthickness=0)
-photo = tk.PhotoImage(file="pictures.png")
+photo = tk.PhotoImage(file="images/pictures.png")
 canvas.create_image(200, 224, image=photo)
 canvas.grid(column=0, row=2, columnspan=3, pady=10)
 
